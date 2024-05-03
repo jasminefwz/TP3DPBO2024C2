@@ -120,3 +120,37 @@ Halaman ini digunakan untuk menambah atau mengedit data. Terdapat formulir di ha
 7. Ketika pengguna ingin menghapus data makanan atau restoran, namun data tersebut berada di data chef, maka data yang ingin dihapus tersebut akan menampilkan gagal hapus
 
 ## Dokumentasi saat Program Dijalankan
+1. index (data chef)
+![index](https://github.com/jasminefwz/TP3DPBO2024C2/assets/147362810/062655a2-d1d7-4654-b59f-6a82d24349af)
+
+2. detail chef
+![detail](https://github.com/jasminefwz/TP3DPBO2024C2/assets/147362810/61c2cbc7-2ce6-4b54-b992-813720a64a3b)
+
+3. tambah chef
+![tambah data](https://github.com/jasminefwz/TP3DPBO2024C2/assets/147362810/558c8527-b203-4ffc-a8de-0aea7747f20d)
+
+4. tambah (dorpdown makanan)
+![tambah dropdown dari foreignkey 1](https://github.com/jasminefwz/TP3DPBO2024C2/assets/147362810/8694f428-6f7b-4013-b613-d3845a1e8f88)
+
+5. tambah (dropdown restoran)
+![tambah dropdown dari foreignkey 2](https://github.com/jasminefwz/TP3DPBO2024C2/assets/147362810/2a0427b1-efd9-4e91-befb-e187791dabfd)
+
+6. edit chef
+![edit data](https://github.com/jasminefwz/TP3DPBO2024C2/assets/147362810/01450039-ffbd-4052-a2e1-9b4e8a1a51b1)
+
+7. edit (dorpdown makanan)
+![edit dropdown dari foreignkey 1](https://github.com/jasminefwz/TP3DPBO2024C2/assets/147362810/fff614ff-3ea0-462a-8570-e77e095035af)
+
+8. edit (dorpdown restoran)
+![edit dropdown dari foreignkey 2](https://github.com/jasminefwz/TP3DPBO2024C2/assets/147362810/45057a0b-e947-40ea-aa6f-0a6fd24a2a6d)
+
+9. hapus data
+![hapus data](https://github.com/jasminefwz/TP3DPBO2024C2/assets/147362810/3edefafb-d72c-403d-9a82-124a63ad3c4f)
+
+10. tabel daftar makanan
+![tabel makanan](https://github.com/jasminefwz/TP3DPBO2024C2/assets/147362810/633dc0fa-bb40-4863-bdc3-08e27c05b787)
+
+11. tabel daftar restoran
+![tabel restoran](https://github.com/jasminefwz/TP3DPBO2024C2/assets/147362810/ef8bb659-4e37-4e8e-8ae7-1bc202ab3315)
+
+add update delete makanan dan restoran sama dengan chef hanya berbeda atribut
