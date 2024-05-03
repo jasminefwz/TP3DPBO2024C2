@@ -154,3 +154,6 @@ Halaman ini digunakan untuk menambah atau mengedit data. Terdapat formulir di ha
 ![tabel restoran](https://github.com/jasminefwz/TP3DPBO2024C2/assets/147362810/ef8bb659-4e37-4e8e-8ae7-1bc202ab3315)
 
 add update delete makanan dan restoran sama dengan chef hanya berbeda atribut
+
+12. Video preview
+https://github.com/jasminefwz/TP3DPBO2024C2/assets/147362810/c82a18fa-edb9-4dba-a8e0-595cd5bc0428
